@@ -13,6 +13,10 @@
  *
  * Translate MCE remote IR code into appropriate multimedia keyboard commands.
  *
+ * Libraries:
+ *   IRRemote - https://github.com/z3t0/Arduino-IRremote
+ *   HID - https://github.com/NicoHood/HID
+ *
  * Uses following Windows Media Center Codes for on/off functions:
  *
  * MCE Remote Power On
